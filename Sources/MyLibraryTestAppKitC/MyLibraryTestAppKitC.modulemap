@@ -1,0 +1,5 @@
+module MyLibraryTestAppKitC {
+    umbrella header "MyLibraryTestAppKitC.h"
+    export *
+}
+
